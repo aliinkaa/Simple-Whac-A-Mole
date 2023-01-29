@@ -1,6 +1,8 @@
 # Simple-Whac-A-Mole
 Simple uni term project made for my computer graphics and animation class. 
-- First screen.
+- Start screen.
+
 ![First Screen](FirstScreen.JPG)
-- Gameplay Screen.
+- Gameplay screen.
+
 ![First Screen](SecondScreen.JPG)
